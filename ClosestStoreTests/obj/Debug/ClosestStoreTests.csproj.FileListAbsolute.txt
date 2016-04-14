@@ -1,0 +1,24 @@
+C:\Users\Karen\Documents\Visual Studio 2013\Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStoreTests.dll
+C:\Users\Karen\Documents\Visual Studio 2013\Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStoreTests.pdb
+C:\Users\Karen\Documents\Visual Studio 2013\Projects\ClosestStore\ClosestStoreTests\obj\Debug\ClosestStoreTests.csprojResolveAssemblyReference.cache
+C:\Users\Karen\Documents\Visual Studio 2013\Projects\ClosestStore\ClosestStoreTests\obj\Debug\ClosestStoreTests.dll
+C:\Users\Karen\Documents\Visual Studio 2013\Projects\ClosestStore\ClosestStoreTests\obj\Debug\ClosestStoreTests.pdb
+C:\Users\Karen\documents\visual studio 2013\Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStore.exe
+C:\Users\Karen\documents\visual studio 2013\Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStore.pdb
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStoreTests.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStoreTests.pdb
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStore.exe
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\ClosestStore.pdb
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\obj\Debug\ClosestStoreTests.csprojResolveAssemblyReference.cache
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\obj\Debug\ClosestStoreTests.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\obj\Debug\ClosestStoreTests.pdb
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\Npgsql.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\Mono.Security.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\Npgsql.pdb
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\Npgsql.xml
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\de\Npgsql.resources.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\es\Npgsql.resources.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\zemj\Documents\Personal_Projects\ClosestStore\ClosestStoreTests\bin\Debug\zh-CN\Npgsql.resources.dll
